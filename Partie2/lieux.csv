@@ -1,0 +1,114 @@
+﻿numLieu;nomLieu;latitude;longitude;ville;missions;dpt;arrondissement;tpLieu;libTpLieu
+1;Musée de l'Air et de l'Espace;48,9471734;2,4336658;Le Bourget;Patrimoine aéronautique, civil et militaire, français et étranger;93;;2;National
+2;Musée d'Art et d'Histoire;48,9234139;2,2520804;Colombes;Histoire de la ville;92;;1;Municipal 
+3;Musée d'Art et d'Histoire;48,5333300;2,6666700;Melun;Peintures, archéologie, mobilier et faïence;77;;1;Municipal 
+4;Musée d'Art et d'Histoire;48,8062840;2,2347622;Meudon;Peintures de paysage, art contemporain et histoire de la ville;92;;1;Municipal 
+5;Musée d'Art et d'Histoire;48,9324645;2,3564998;Saint-Denis;Archéologie médiévale, souvenirs de l'ancien Carmel et de Madame Louise de France, histoire de la Commune de Paris;93;;1;Municipal 
+6;Musée d'Archéologie Nationale;48,8979045;2,0956035;Saint-Germain-en-Laye;Collections archéologiques du Paléolithique à la Gaule Romaine;78;;2;National
+7;Bibliothèque-musée de l'Opéra Garnier;48,8721200;2,3317800;Paris;Costumes et documents du fonds de l'Opéra Garnier;75;9;7;Institution culturellee
+8;Archives Nationales;48,8601668;2,3586211;Paris;Grands documents de l'Histoire de France;75;3;2;National
+9;Château de Breteuil;48,6801810;2,0227877;Choisel;L'univers des contes de Perrault reconstitué;78;;6;Châteaux
+10;Château de Fontainebleau-Musée Napoléon;48,4021166;2,6998510;Fontainebleau;Parcours autour de l'empereur et de ses proches;77;;6;Châteaux
+11;Château de la Malmaison;48,8708235;2,1668378;Rueil-Malmaison;Résidence de Joséphine de Beauharnais;92;;6;Châteaux
+12;Château de Monte-Cristo;48,8856010;2,1034687;Le Port-Marly;Demeure d'Alexandre Dumas;78;;6;Châteaux
+14;Château d'Écouen - Musée National de la Renaissance;49,0173515;2,3780232;Écouen;Collections d'orfèvrerie, émaux et tapisseries de la Renaissance;95;;2;National
+15;Château et Musée de Dourdan;48,5277200;2,0111300;Dourdan;Château médiéval et donjon du XIIIe – Peintures, faïences, poteries et mobilier;91;;6;Châteaux
+16;Bibliothèque Nationale de France;48,8350258;2,3760157;Paris;Documents imprimés, estampes, photographies et monnaies;75;13;7;Institution culturellee
+17;Bourse de Commerce - Pinault Collection;48,8628174;2,3428364;Paris;Art contemporain;75;1;3;Privé
+18;Cabinet des Dessins Jean Bonna - Beaux-Arts de Paris;48,8534100;2,3488000;Paris;Présenter et regrouper plus de 20 000 œuvres,;75;6;7;Institution culturellee
+19;Centre culturel canadien;48,8605226;2,3151335;Paris;Institut représentant la culture canadienne à Paris;75;8;7;Institution culturellee
+20;Centre culturel de l'Ambassade d'Ukraine;48,8764325;2,3132913;Paris;Pour faire découvrir toute la culture ukrainienne;75;8;7;Institution culturellee
+21;Centre culturel irlandais;48,8440243;2,3462964;Paris;Présenter et promouvoir en France la culture contemporaine irlandaise sous tous ses aspects;75;5;7;Institution culturellee
+22;Centre des Arts d'Enghien-les-Bains;48,9723354;2,3053387;Enghien-les-Bains;Expositions d'art régulières, films et spectacles,;95;;7;Institution culturellee
+23;Centre Pompidou;48,8605918;2,3524736;Paris;Musée national d'Art moderne, tout l'art du XXe siècle;75;4;2;National
+24;Château d'Auvers-sur-Oise;49,0694973;2,1677660;Auvers-sur-Oise;Le château immortalisé par Van Gogh  reconstitue l'époque impressionniste;95;;6;Châteaux
+26;Château de Rambouillet;48,6454127;1,8173244;Rambouillet;Le château de Rambouillet est un lieu de calme pour les princes et les souverains,;78;;6;Châteaux
+27;Cinémathèque Française - Musée Méliès;48,8369987;2,3826352;Paris;Histoire du cinéma : documents, objets, affiches, costumes,,,;75;12;7;Institution culturellee
+28;Cité de l'Architecture et du Patrimoine;48,8628901;2,2889810;Paris;Chefs d’œuvre et histoire de l’architecture française;75;16;7;Institution culturellee
+46;Fondation Cartier;48,8372278;2,3316608;Paris;Expositions d'art contemporain;75;14;3;Privé
+48;Fondation Dubuffet;48,6939621;2,5481283;Paris;Peintures, sculptures, dessins et estampes de l'artiste;75;7;3;Privé
+49;Fondation Henri Cartier-Bresson;48,8632197;2,3598871;Paris;Tirages, planches, dessins, publications,,, du photographe;75;14;3;Privé
+51;Fondation Louis Vuitton;48,8766500;2,2633381;Paris;Art contemporain;75;16;3;Privé
+63;Galerie Alain Margaron;48,8606561;2,3614765;Paris;Galerie Humaniste;75;3;5;Galerie
+65;Musée Cernuschi;48,8794305;2,3125641;Paris;Objets et œuvres d'art asiatique;75;17;1;Municipal 
+66;Maison de Balzac;48,8552004;2,2808818;Paris;Appartement de l'écrivain : manuscrits, éditions originales,,,;75;16;1;Municipal 
+67;Maison de Victor-Hugo;48,8547990;2,3661358;Paris;Appartement de l'écrivain : manuscrits, dessins, estampes,,,;75;4;1;Municipal 
+68;Fondation de Coubertin;48,7020515;2,0600294;Saint-Rémy-les-Chevreuse;Peintures et Sculptures;78;;2;National
+69;Musée du Chocolat;48,8705899;2,3500828;Paris;Tout le chocolat : histoire, démonstration et dégustation;75;10;3;Privé
+70;Musée-Maison Édith Piaf;48,8534100;2,3488000;Paris;Objets personnels, faïences et robe noire de la chanteuse;75;11;3;Privé
+71;Espace Dali;48,8864800;2,3399022;Paris;Sculptures et gravures du maître du surréalisme;75;18;3;Privé
+72;Fondation Le Corbusier - Villa La Roche;48,8519070;2,2652250;Paris;Exemple d'architecture moderne, mobilier;75;16;3;Privé
+73;Musée Grévin;48,8718365;2,3420974;Paris;Statues de cire de personnages célèbres;75;9;3;Privé
+74;Musée de la Magie ;48,8531207;2,3611670;Paris;Automates, illusions, affiches, gravures et objets de magie;75;4;3;Privé
+75;Musée Maillol;48,8547304;2,3248616;Paris;Peintures, sculptures et dessins de l'artiste;75;7;3;Privé
+82;Galerie Daniel Templon;48,8619458;2,3542712;Paris;Galerie d'art contemporain;75;3;5;Galerie d'art 
+86;Muséum national d'Histoire naturelle;48,8534100;2,3488000;Paris;Collections scientifiques naturalistes;75;5;2;National
+91;Galerie du Génie de la Bastille;48,8550397;2,3870757;Paris;Association d'artistes pour la diffusion et la défense de l'art contemporain dans le quartier de la Bastille;75;11;5;Galerie
+92;Galerie du Haut-Pavé;48,8514633;2,3499625;Paris;L'une des plus anciennes galeries associatives de Paris qui promeut les jeunes artistes d'art contemporain;75;5;5;Galerie
+93;Galerie du Montparnasse;48,8421341;2,3257291;Paris;galerie d'art contemporain;75;14;5;Galerie
+94;Musée Victor Aubert;48,9087614;1,8494948;Maule;Histoire locale;78;;1;Municipal 
+97;Galerie GNG;48,8534100;2,3488000;Paris;Galerie d'art contemporain;75;6;5;Galerie
+98;Galerie Guillaume;48,8534100;2,3488000;Paris;Galerie d'art contemporain;75;8;5;Galerie
+99;Galerie Hors-Champs;48,8638299;2,3569390;Paris;Galerie d'art contemporain;75;3;5;Galerie
+100;Galerie Ida Médicis;48,8556350;2,3666419;Paris;Galerie d'art contemporain;75;6;5;Galerie
+101;Galerie Kamel Mennour;48,8532120;2,3398417;Paris;Galerie spécialisée dans l'art contemporain;75;6;5;Galerie
+104;Galerie Laurent Godin;48,8254211;2,3735685;Paris;Galerie d'art contemporain;75;13;5;Galerie
+107;Galerie Les Filles du Calvaire;48,8628336;2,3659180;Paris;galerie d’art contemporain située dans le Marais (surtout photographies);75;3;5;Galerie
+114;Galerie Michael Lonsdale;48,8534100;2,3488000;Paris;Une galerie dédiée à la Beauté dans notre monde en souffrance,;75;7;5;Galerie
+120;Maison de Châteaubriand;48,7726888;2,2642505;Châtenay-Malabry;Collection autour de l'écrivain et du romantisme;92;;3;Privé
+121;Musée des Capucins;48,8100050;3,0872811;Coulommiers;Histoire de la ville;77;;1;Municipal 
+122;Musée Jean-Jacques Rousseau;48,9869805;2,3215161;Montmorency;Restitution du cadre de l'écrivain;95;;1;Municipal 
+123;Musée du Jouet;48,9284737;2,0379825;Poissy;Collection de jouets du XIXe au XXe;78;;1;Municipal 
+134;Maison Jean Cocteau;48,4022700;2,4646009;Milly-la-Forêt;Collection autour de l'œuvre de Cocteau;91;;1;Municipal 
+143;Grand Palais;48,8661613;2,3122230;Paris;Édifice verrier monumental de 1900, expositions de la Réunion des Musées Nationaux;75;8;2;National
+144;Château de Versailles;48,8044252;2,1202853;Versailles;Beaux-arts et Histoire de France;78;;2;National
+147;Halle Saint-Pierre;48,8848912;2,3445287;Paris;Art brut, art singulier, outsider art et pop culture;75;18;3;Privé
+149;Hôtel de la Marine;48,8669402;2,3235045;Paris;Histoire maritime : reproductions, documents, tableaux,,,;75;16;7;Institution culturellee
+151;Institut culturel du Mexique;48,8610031;2,3624729;PAris;Vitrine de la culture mexicaine sur la scène française;75;3;7;Institution culturellee
+152;Institut Culturel Italien;48,5868969;7,7647565;Paris;Pour la promotion de la langue et de la culture italiennes;75;7;7;Institution culturellee
+153;Institut des Cultures d'Islam;48,8884734;2,3562132;Paris;Centre d'art contemporain;75;18;7;Institution culturellee
+154;Institut du Monde Arabe;48,8489163;2,3574933;Paris;Art et histoire de la civilisation arabo-musulmane;75;5;7;Institution culturellee
+155;Institut Giacometti;48,8361964;2,3310205;Paris;Sculptures, œuvres de l'artiste;75;14;7;Institution culturellee
+157;Musée Jeu de Paume;48,8659181;2,3236361;Paris;Photographies, vidéos, installations et art contemporain;75;8;2;National
+173;MAD (Arts Décoratifs);48,8670001;2,3751229;Paris;Meubles, objets d'art, design, mode, textile et graphisme;75;1;2;National
+175;Propriété Caillebotte;48,7137035;2,4887987;Yerres;Courant Impressionniste;91;;1;Municipal 
+180;Maison Européenne de la Photographie;48,8551205;2,3589562;Paris;Photographies et vidéos;75;4;7;Institution culturellee
+181;Maison Robert Doisneau;48,8143015;2,3476028;Gentilly;Photographie humaniste - Ancienne maison du photographe;94;;1;Municipal 
+183;Memorial de la Shoah;48,9187364;2,4533118;Drancy;Histoire du camp de Drancy;93;;7;Institution culturellee
+186;Musée Archéa;49,0446000;2,5047900;Louvres;Archéologie;95;;4;départemental
+189;Musée Cognacq-Jay;48,8581208;2,3616824;Paris;Objets et peintures du XVIIIe siècle;75;4;1;Municipal 
+192;Musée d'Art et d'Histoire du Judaïsme;48,8612664;2,3554416;Paris;La culture juive, du Moyen-Âge au XXe siècle;75;3;1;Municipal 
+193;Musée d' Art et d'Histoire Louis-Senlecq;49,1125448;2,2159284;L'Isle-Adam;Peintures et dessins des artistes des bords de l'Oise : XIXe, XXe;95;;1;Municipal 
+194;Musée d'Art Moderne de Paris;48,8643133;2,2978602;Paris;Principaux mouvements artistiques du XXème siècle;75;16;2;National
+195;Musée Daubigny;49,0713308;2,1714170;Auvers-Sur-Oise;Vers un musée du pré-impressionnisme;95;;1;Municipal 
+196;Musée de Cluny - Musée national du Moyen Âge;48,8506494;2,3435643;Paris;Musée du Moyen-Âge et thermes antiques;75;5;2;National
+198;Musée de la Chasse et de la Nature;48,8612556;2,3587827;Paris;Œuvres d’art animalier et cynégétique;75;3;3;Privé
+199;Maison natale de Louis Braille;48,8945027;2,7920336;Coupvray;Vie et réalisations de Louis Braille;77;;1;Municipal 
+200;Mémorial du Maréchal Leclerc - Musée Jean-Moulin;48,8534100;2,3488000;Paris;Deux figures emblématiques de la Seconde Guerre mondiale;75;15;1;Municipal 
+202;Musée de la Musique - Cité de la Musique-Philharmonie;48,8901928;2,3937120;Paris;Instruments de musique, tableaux, sculptures et mobilier;75;17;2;National
+205;Musée de la Résistance Nationale;48,8072670;2,5252640;Champigny-sur-Marne;Histoire de la Résistance;94;;2;National
+206;Musée de la Toile de Jouy;48,7691813;2,1520866;Jouy-en-Josas;Collection autour de la célèbre toile imprimée depuis 1759;78;;1;Municipal 
+207;Musée de la Vie Romantique Scheffer-Renan;48,8812050;2,3335397;Paris;Œuvres et objets d'art de l'époque romantique;75;9;1;Municipal 
+209;Musée de l'Homme;48,8620467;2,2876525;Paris;L'homme en tant qu'être biologique, culturel et social;75;16;2;National
+212;Musée de Montmartre;48,8882499;2,3406776;Paris;Histoire de la Butte Montmartre : objets, affiches, peintures,,,;75;18;1;Municipal 
+213;Musée Eugène Delacroix;48,8546415;2,3353937;Paris;Peintures, objets, souvenirs et autographes du peintre;75;6;2;National
+214;Musée Départemental de la Préhistoire;48,2751100;2,6907800;Nemours;Archéologie;77;;4;départemental
+215;Musée des Arts et Métiers;48,8660977;2,3554138;Paris;Innovation technique et instruments scientifiques;75;3;2;National
+216;Musée des Avelines;48,8434338;2,2082834;Saint-Cloud;Art et histoire de la ville;92;;1;Municipal 
+219;Musée d'Orsay;48,8599179;2,3265849;Paris;Œuvres et objets d'art fin XIXe et XXe siècle;75;7;2;National
+221;Musée du Louvre;48,8611473;2,3380277;Paris;Peintures, sculptures et objets d'art de l'Antiquité au XIXe siècle;75;1;2;National
+223;Musée du Petit Palais;48,8660456;2,3145051;Paris;Musée des beaux-arts de la Ville de Paris;75;8;1;Municipal 
+224;Musée du Quai Branly - Jacques Chirac;48,8609943;2,2979696;Paris;Arts et civilisations d'Afrique, Asie, Océanie et Amérique;75;7;2;National
+225;Chopin, Mickiewicz, Biegas - Bibliothèque Polonaise;48,8513211;2,3556751;Paris;Souvenirs de Chopin et œuvres d'artistes polonais des XIXe et XXe siècles;75;4;7;Institution culturellee
+229;Musée Marmottan Monet;48,8594122;2,2672551;Paris;Impressionnisme, Premier Empire et enluminures;75;7;3;Privé
+230;Musée Municipal;48,3737960;2,8149097;Morët-sur-Loing;Arts plastiques;77;;1;Municipal 
+231;Musée Picasso;48,8598698;2,3621152;Paris;Tableaux, sculptures, dessins et estampes de l'artiste;75;3;2;National
+233;Musée Yves Saint Laurent;48,8655906;2,2993156;Paris;L'œuvre du couturier dans son ancienne maison de couture;75;16;3;Privé
+235;Palais de Tokyo;48,8639905;2,2965215;Paris;Centre de création et d'art contemporain;75;6;7;Institution culturellee
+236;Palais Galliera;48,8657028;2,2965064;Paris;Toute la mode : costumes, haute-couture, accessoires,,,;75;16;1;Municipal 
+237;Maison Van Gogh;49,0706441;2,1715529;Auvers-sur-Oise;Parcours thématique autour du peintre;95;;1;Municipal 
+238;Musée Municipal;48,9193000;2,5430500;Livry-Gargan;Histoire locale;93;;1;Municipal 
+244;Château de Vincennes;48,8429069;2,4358058;Vincennes;Des expositions dans la Sainte-Cchapelle;94;;6;Châteaux
+245;Château-Musée de Nemours;48,2655865;2,6970907;Nemours;Beaux-arts XVe au XXe siècle, faïences, archéologie, histoire de la ville;77;;4;départemental
+249;Musée Albert Kahn;48,8413452;2,2282740;Boulogne-Billancourt;Fonds photographiques couleur du début du XXe siècle - « Les Archives de la planète »;92;;1;Municipal 
+250;Musée Alfred Bonno;48,8778455;2,5911439;Chelles;Histoire locale de la préhistoire au XIXe siècle;77;;1;Municipal 
